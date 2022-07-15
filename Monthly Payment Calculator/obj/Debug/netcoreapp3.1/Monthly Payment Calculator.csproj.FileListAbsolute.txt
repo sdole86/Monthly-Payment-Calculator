@@ -1,0 +1,16 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\bin\Debug\netcoreapp3.1\Monthly Payment Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly_Payment_Calculator.Main.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit H\Monthly Payment Calculator\Monthly Payment Calculator\obj\Debug\netcoreapp3.1\Monthly Payment Calculator.genruntimeconfig.cache

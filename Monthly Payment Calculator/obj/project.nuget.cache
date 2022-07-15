@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSVBLjDYUStWRIf2Rl7tue25nymAzb3b4DjpAlqzdFfltR/0tWbB6ZFchrD6nSMAdoeQ20ZFhy0294OQ09hdjQ==",
+  "success": true,
+  "projectFilePath": "P:\\School\\2021-03 Fall\\CSCI 1630 - Introduction to C# Programming\\Unit H\\Monthly Payment Calculator\\Monthly Payment Calculator\\Monthly Payment Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dole05\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
